@@ -6,6 +6,7 @@ authors = ["Malanius Privierre <malaniusprivierre@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+beautifulsoup4 = "^4.11.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
